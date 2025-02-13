@@ -2,4 +2,4 @@ SELECT CustomerID,
   FirstName,
   LastName
 FROM Customer
-WHERE State IS NULL
+WHERE State IS NOT NULL

@@ -1,3 +1,3 @@
 SELECT FirstName
 FROM Customer
-WHERE FirstName LIKE "% %";
+WHERE FirstName LIKE "%M%";
